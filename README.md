@@ -1,7 +1,6 @@
 <div style="background-image: url('https://images.wallpapersden.com/image/download/minimal-hd-landscape_bWhsZ2WUmZqaraWkpJRmbmdlrWZlbWU.jpg'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
-  
-## Bernardo Meneses
 
+## Bernardo Meneses
 <div align="center">
   <a href="https://github.com/BernardoMeneses">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BernardoMeneses&show_icons=true&hide=issues&count_private=true&theme=dark" />
@@ -48,6 +47,7 @@
 </p>
 
 </div>
+
 
 
 
