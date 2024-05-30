@@ -6,23 +6,6 @@
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMeneses&layout=compact&theme=dark)
 
-## Repositories
-
-### ProjetosUni
-Repositório que contém os projetos realizados ao longo da minha licenciatura em Engenharia Informática na UTAD.
-
-- [BD](https://github.com/BernardoMeneses/ProjetosUni/tree/main/BD) - Projeto da UC de Base de Dados
-- [Batalha Naval](https://github.com/BernardoMeneses/ProjetosUni/tree/main/Batalha%20Naval) - Projeto da UC de Laboratório de Programação
-- [CG/4_em_linha](https://github.com/BernardoMeneses/ProjetosUni/tree/main/CG/4_em_linha) - Projeto de CG
-- [Compiladores](https://github.com/BernardoMeneses/ProjetosUni/tree/main/Compiladores) - Projeto da UC de Compiladores
-- [ICD](https://github.com/BernardoMeneses/ProjetosUni/tree/main/ICD) - Trabalhos realizados da UC de Introdução á Ciência dos Dados
-- [Lab3](https://github.com/BernardoMeneses/ProjetosUni/tree/main/Lab3) - Projeto da UC de Lab3
-
-### Developer-Events
-Código de eventos de programação que frequentei.
-
-- [Code&Conquer Hackaton](https://github.com/BernardoMeneses/Developer-Events/tree/main/Code&Conquer%20Hackaton) - Código da 1ª edição do Hackaton Code & Conquer 2023
-
 ## Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
