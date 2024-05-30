@@ -38,7 +38,7 @@
     <img src="https://cdn-icons-png.freepik.com/256/1384/1384063.png?semt=ais_hybrid" width="40" height="40"/>
   </a>
   <a href="https://wa.me/+351910357609" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40" height="40"/>
+    <img src="https://p7.hiclipart.com/preview/922/489/218/whatsapp-icon-logo-whatsapp-logo-png.jpg" width="40" height="40"/>
   </a>
   <a href="https://discordapp.com/users/r_a_i_n_z" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/>
