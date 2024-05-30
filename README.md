@@ -1,12 +1,12 @@
 <div style="background-image: url('https://images.wallpapersden.com/image/download/minimal-hd-landscape_bWhsZ2WUmZqaraWkpJRmbmdlrWZlbWU.jpg'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
-
-# Bernardo Meneses
+  
+## Bernardo Meneses
 
 <div align="center">
   <a href="https://github.com/BernardoMeneses">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BernardoMeneses&show_icons=true&hide=issues&count_private=true&theme=dark" />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/BernardoMeneses">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMeneses&layout=compact&theme=dark" />
   </a>
 </div>
@@ -46,6 +46,8 @@
     <img src="https://cdn.discordapp.com/attachments/1027282030926508132/1245817188540223508/discord-icon-43744.png?ex=665a212b&is=6658cfab&hm=d197047838da1dfffe0fc6e99b01fbc3ac09ce42720e8f996292eb4d27b6f067&" width="40" height="40"/>
   </a>
 </p>
+
 </div>
+
 
 
