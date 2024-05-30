@@ -1,6 +1,6 @@
 <table style="width:100%; height:auto; background: url('https://images.wallpapersden.com/image/download/minimal-hd-landscape_bWhsZ2WUmZqaraWkpJRmbmdlrWZlbWU.jpg') no-repeat center center; background-size: cover; border-radius: 10px;">
   <tr>
-    <td>
+    
 
 ## Bernardo Meneses
 <div align="center">
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-    </td>
+    
   </tr>
 </table>
 
