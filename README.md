@@ -41,7 +41,7 @@
     <img src="https://cdn.discordapp.com/attachments/1027282030926508132/1245816191490986014/whatapp.png?ex=665a203e&is=6658cebe&hm=621022df792b6d878a599a5c67a256bdf891fe87cfe3ac6011a3dd0f393383f7&" width="40" height="40"/>
   </a>
   <a href="https://discordapp.com/users/r_a_i_n_z" target="_blank">
-    <img src="https://tm.ibxk.com.br/2022/05/26/26232122827007.jpg" width="40" height="40"/>
+    <img src="https://cdn.discordapp.com/attachments/1027282030926508132/1245817188540223508/discord-icon-43744.png?ex=665a212b&is=6658cfab&hm=d197047838da1dfffe0fc6e99b01fbc3ac09ce42720e8f996292eb4d27b6f067&" width="40" height="40"/>
   </a>
 </p>
 
