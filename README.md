@@ -1,11 +1,11 @@
 # Bernardo Meneses
 
 <div align="center">
-  <a href="https://github.com/seu-usuario">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide=issues&count_private=true&theme=dark" />
+  <a href="https://github.com/BernardoMeneses">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BernardoMeneses&show_icons=true&hide=issues&count_private=true&theme=dark" />
   </a>
   <a href="https://github.com/seu-usuario">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMeneses&layout=compact&theme=dark" />
   </a>
 </div>
 
@@ -25,6 +25,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ## Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- [Email](mailto:seu-email@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/bernardojvmeneses/)
+- [Email](mailto:bernardojvmeneses@gmail.com)
 
