@@ -34,6 +34,15 @@
   <a href="mailto:bernardojvmeneses@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
+  <a href="https://www.instagram.com/bernardomeneses_/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/+351910357609" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://discordapp.com/users/r_a_i_n_z" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
 
