@@ -41,7 +41,7 @@
     <img src="https://p7.hiclipart.com/preview/922/489/218/whatsapp-icon-logo-whatsapp-logo-png.jpg" width="40" height="40"/>
   </a>
   <a href="https://discordapp.com/users/r_a_i_n_z" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/>
+    <img src="https://tm.ibxk.com.br/2022/05/26/26232122827007.jpg" width="40" height="40"/>
   </a>
 </p>
 
