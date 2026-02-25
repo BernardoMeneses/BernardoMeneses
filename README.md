@@ -41,7 +41,7 @@
     <img src="https://cdn-icons-png.freepik.com/256/1384/1384063.png?semt=ais_hybrid" width="40" height="40"/>
   </a>
   <a href="https://wa.me/+351910357609" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1027282030926508132/1245816191490986014/whatapp.png?ex=665a203e&is=6658cebe&hm=621022df792b6d878a599a5c67a256bdf891fe87cfe3ac6011a3dd0f393383f7&" width="40" height="40"/>
+    <img src="https://img.freepik.com/premium-vector/whatsapp-vector-logo-icon-logotype-vector-social-media_901408-406.jpg?semt=ais_user_personalization&w=740&q=80" width="40" height="40"/>
   </a>
   <a href="https://discordapp.com/users/r_a_i_n_z" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/1027282030926508132/1245817188540223508/discord-icon-43744.png?ex=665a212b&is=6658cfab&hm=d197047838da1dfffe0fc6e99b01fbc3ac09ce42720e8f996292eb4d27b6f067&" width="40" height="40"/>
