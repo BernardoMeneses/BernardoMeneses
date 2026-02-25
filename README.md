@@ -3,14 +3,6 @@
     
 
 ## Bernardo Meneses
-<div align="center">
-  <a href="https://github.com/BernardoMeneses">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BernardoMeneses&show_icons=true&hide=issues&count_private=true&theme=dark" />
-  </a>
-  <a href="https://github.com/BernardoMeneses">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMeneses&layout=compact&theme=dark" />
-  </a>
-</div>
 
 ## Skills
 <p align="center">
